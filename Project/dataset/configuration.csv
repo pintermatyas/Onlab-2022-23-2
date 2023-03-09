@@ -1,0 +1,2 @@
+id,label,data_folder,measurement_file,radio_dot_file,rTE_file,x,y,z
+1,POS-1,../data/sample,T20230222_1337_PoC_RDs_DMRS_UDP_Serial_Array_332_346_353_354_364_419_120.mat,dot_coordinates.csv,T20230222_1302__RIBM_optimum_branches_rTE.mat,27.0472781,-15.1509300,1.6500000
